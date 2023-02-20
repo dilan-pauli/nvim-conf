@@ -1,1 +1,1 @@
-require('Dilan')
+require('dilan')
